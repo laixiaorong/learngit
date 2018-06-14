@@ -1,0 +1,2 @@
+this is a repository about git command.
+so you can read it learn how to use git.
